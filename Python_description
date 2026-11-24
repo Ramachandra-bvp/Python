@@ -1,0 +1,11 @@
+Python is a high-level, interpreted, general-purpose programming language.
+
+In simple words:
+1.Easy to read and write
+2.Code is executed by the Python interpreter
+3.Used for automation, web development, testing, data analysis, AI/ML, scripting, and many other areas
+4.Python files normally end with .py
+
+Interview question: Is Python compiled or interpreted?
+Python is generally called an interpreted language. Python source code is first converted into bytecode, which is then executed by the Python Virtual Machine.
+python --version or python3 --version
